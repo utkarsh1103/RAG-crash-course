@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector database files created by the notebooks
+chroma_db/
+
+# OS files
+.DS_Store
